@@ -1,0 +1,114 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+      .skills {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .askill {
+        padding: 12px;
+      }
+      
+      .aSkill *{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+        margin: 0;
+      }
+      .outer {
+        position: relative;
+        width: 100pt;
+        height: 100pt;
+        padding: 5pt;
+        box-sizing: border-box;
+        border-radius: 50%;
+        box-shadow: -9px -9px 16px #ffffff, 9px 3px 16px #a3b1c6;
+        border: 2px solid #fff;
+        background-color: #e7eef5;
+      }
+      .inner {
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+      }
+      .aSkill h3 {
+        font-size: 32px;
+        margin: 0;
+      }
+      .aSkill h2 {
+        color: #555;
+        font-size: 22px;
+        margin: 0;
+      }
+      .aSkill h3 span {
+        font-weight: 400;
+      }
+      .outer svg {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100pt;
+        height: 100pt;
+        box-sizing: border-box;
+      }
+      </style>
+      <div class="skills">
+        <div class="aSkill">
+          <div class="outer">
+            <div class="inner">
+              <h3>97 <span>%</span></h3>
+              <h2>HTML</h2>
+            </div>
+            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100">
+               <defs>
+                  <linearGradient id="GradientColor">
+                     <stop offset="0%" stop-color="#e91e63" />
+                     <stop offset="100%" stop-color="#673ab7" />
+                  </linearGradient>
+               </defs>
+               <circle cx="50" cy="50" r="65" stroke-linecap="round" />
+          </svg>
+          </div>
+        </div>
+        <div class="aSkill">
+          <div class="outer">
+            <div class="inner">
+              <h3>90 <span>%</span></h3>
+              <h2>CSS</h2>
+            </div>
+          </div>
+        </div>
+        <div class="aSkill">
+          <div class="outer">
+            <div class="inner">
+              <h3>95 <span>%</span></h3>
+              <h2>Javascript</h2>
+            </div>
+          </div>
+        </div>
+        <div class="aSkill">
+          <div class="outer">
+            <div class="inner">
+              <h3>85 <span>%</span></h3>
+              <h2>Bootstrap</h2>
+            </div>
+          </div>
+        </div>
+        <div class="aSkill">
+          <div class="outer">
+            <div class="inner">
+              <h3>90 <span>%</span></h3>
+              <h2>React</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+
+  </foreignObject>
+</svg>
