@@ -31,6 +31,8 @@ I am a hard-working and driven individual who isn't afraid to face a challenge. 
 ~~~
 
 ~~~
-
-[Facebook](https://www.facebook.com/profile.php?id=100061691281857) [Whatsapp](https://wa.me/message/A53BTUPBBHYBM1)
+# contact
+[Facebook](https://www.facebook.com/profile.php?id=100061691281857)
+[Whatsapp](https://wa.me/message/A53BTUPBBHYBM1)
+[Portfolio](https://abdullahmuslim.github.io/portfolio#contact)
 muslimabdullah925@gmail.com
