@@ -16,7 +16,7 @@ I am a hard-working and driven individual who isn't afraid to face a challenge. 
   "https://github.com/abdullahmuslim/to-do"
   ### [Demo link](https://abdullahmuslim.github.io/to-do):
   "https://abdullahmuslim.github.io/to-do" 
-  ![](html.png) ![](css.png) ![](react.png)
+### Build with:  ![](html.png) ![](css.png) ![](react.png)
 
 - ## [KidsAcademy]()
   An E-learning platform for pre-schoolers, features interactive lessons, poems and games.
@@ -24,7 +24,7 @@ I am a hard-working and driven individual who isn't afraid to face a challenge. 
   "https://github.com/abdullahmuslim/kidsAcademy"
   ### [Demo link](https://abdullahmuslim.github.io/kidsAcademy):
   "https://abdullahmuslim.github.io/kidsAcademy" 
-  ![](html.png) ![](css.png) ![](javascript.png)
+### Build with:  ![](html.png) ![](css.png) ![](javascript.png)
 
   ## [browse all projects](https://github.com/abdullahmuslim?tab=repositories)
 
@@ -32,5 +32,5 @@ I am a hard-working and driven individual who isn't afraid to face a challenge. 
 
 ~~~
 
-[![](fb.png)](https://www.facebook.com/profile.php?id=100061691281857) [(![](wa.png)](https://wa.me/message/A53BTUPBBHYBM1) [![](mail.png)](https://mail.google.com)
+[Facebook](https://www.facebook.com/profile.php?id=100061691281857) [Whatsapp](https://wa.me/message/A53BTUPBBHYBM1)
 muslimabdullah925@gmail.com
